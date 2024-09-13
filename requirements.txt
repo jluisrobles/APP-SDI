@@ -1,1 +1,6 @@
-streamlit\nrequests\nbeautifulsoup4\npandas\nopenpyxl
+streamlit
+requests
+beautifulsoup4
+pandas
+openpyxl
+
