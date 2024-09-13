@@ -1,6 +1,1 @@
-streamlit==1.27.1
-beautifulsoup4==4.12.3
-pandas==2.1.0
-openpyxl==3.1.2
-requests==2.31.0
-numpy==1.25.2
+streamlit\nrequests\nbeautifulsoup4\npandas\nopenpyxl
